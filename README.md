@@ -1,3 +1,3 @@
 # minesweeper
 
-Terminal minesweeper. Simple implementation, donw with one dimentional array.
+Terminal minesweeper. Simple implementation, done within a one dimentional array.
